@@ -19,7 +19,7 @@ import org.apache.http.util.EntityUtils;
 
 /**
  * 
- * @author sateeshkumar.putta Added content to eGIT v1.1 changes
+ * @author sateeshkumar.putta Added content to eGIT v1.2 changes
  *
  */
 public class FlowGeneration {
