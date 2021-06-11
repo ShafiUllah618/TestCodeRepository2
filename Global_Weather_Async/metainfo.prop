@@ -1,0 +1,9 @@
+#Store metainfo properties
+#Thu May 27 16:33:04 UTC 2021
+nodeType=IFLMAP
+OriginBundleName=Global_Weather_Async
+OriginBundleSymbolicName=Global_Weather_Async
+BundleVersion=1.0.0
+productProfile=iflmap
+description=
+BundleSymbolicName=Global_Weather_Async
